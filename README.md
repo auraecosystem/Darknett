@@ -11,6 +11,7 @@ Darknet is an open source neural network framework written in C and CUDA. It is 
 
 * **source code - Pytorch (use to reproduce results):** https://github.com/WongKinYiu/yolov7
 
+
 ----
 
 Official YOLOv7 is more accurate and faster than YOLOv5 by **120%** FPS, than YOLOX by **180%** FPS, than Dual-Swin-T by **1200%** FPS, than ConvNext by **550%** FPS, than SWIN-L by **500%** FPS.
